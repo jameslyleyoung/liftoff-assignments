@@ -1,4 +1,4 @@
-#Meetup Assignment Class 1
+###Meetup Assignment Class 1
 
 ## Name, Date, Time and Topic
 PowerShell 101, St. Louis PowerShell User Group.
@@ -25,7 +25,7 @@ about it in LaunchCode LC101-I'm going to be searching
 on YouTube to figure out how to launch Powershell, figure out what 
 the ISE is, and how to run commands, before I head to this meetup.
 
-# Followup:
+## Followup:
 Windows Powershell is developed by Microsoft for the purposes of 
 task automation and configuration management.  It is based on the 
 .NET framework, and it includes a command-line shell and scripting
@@ -44,6 +44,56 @@ and the Windows Powershell appears just like the CLI.
 How is Windows PowerShell more powerful than the command prompt?
 Why is it intended to replace the command prompt?
 
+###Basics
+
+##Get-Help
+get-help <command>
+-examples
+-detailed
+-full
+-online
+
+get-help | more
+get-help | less
+
+same as using 'man', for the most part
+
+##Get-Command
+get-command <command>
+-noun
+-verb
+-showCommandInfo
+-parameterName
+-Syntax
+
+#Have to do hunting and pecking, but after you find what you are looking for you can explore the command.
+
+Grammar matters: the difference between knowing your shit and knowing you're shit.  
+
+##Verb-Noun
+
+dont't use more dashes - just don't --- okay 
+get-verb is your friend!
+
+e.g. get-help, get-command, get-childitem (ls)
+
+#Good habit, small adjustment.
+Beginner: no!  Beyond that: YES!!!
+
+It matters a ton, when we develop functiions and modules.
+You can build your own help.
+
+###Running Commands
+I don't always use CLI, but when I do, I copy and paste the shit out of everything!
+
+
+
+
+
+
 
 ## Next Steps for learning about the topic.
 https://www.tutorialspoint.com/operating_system/os_services.htm
+docs.microsoft.com//en-us/powershell
+lmgtfy
+
