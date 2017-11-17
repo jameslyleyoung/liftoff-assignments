@@ -83,17 +83,25 @@ Beginner: no!  Beyond that: YES!!!
 It matters a ton, when we develop functiions and modules.
 You can build your own help.
 
-###Running Commands
+
+##Running Commands
 I don't always use CLI, but when I do, I copy and paste the shit out of everything!
 
+Differences from PoSH vs. ISE (pic on phone)
 
+###Top 10 CmdLets
+###Types/Typing
+###MagDev Favorites
 
+##Top 10
+1. Get-Help
+2. Set-ExecutionPolicy  (Get-)
 
 
 
 
 ## Next Steps for learning about the topic.
 https://www.tutorialspoint.com/operating_system/os_services.htm
-docs.microsoft.com//en-us/powershell
+https://docs.microsoft.com//en-us/powershell
 lmgtfy
 
