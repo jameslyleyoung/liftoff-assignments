@@ -1,6 +1,6 @@
-###Meetup Assignment Class 1
+#### Meetup Assignment Class 1
 
-## Name, Date, Time and Topic
+### Name, Date, Time and Topic
 PowerShell 101, St. Louis PowerShell User Group.
 Thursday, November 16, 2017 @ 6:00pm.
 
@@ -18,14 +18,14 @@ Arrays, Hashes, Array of Hashes, Pipleine, Switch,
 String Manipulation, String Format, Write-Host vs. Write-Output,
 Functions, Advanced Functions, Modules, Importing Modules."
 
-## Brief description of prelimanary research	
+### Brief description of prelimanary research	
 
 As I don't know anything about PowerShell-other than hearing
 about it in LaunchCode LC101-I'm going to be searching 
 on YouTube to figure out how to launch Powershell, figure out what 
 the ISE is, and how to run commands, before I head to this meetup.
 
-## Followup:
+### Followup:
 Windows Powershell is developed by Microsoft for the purposes of 
 task automation and configuration management.  It is based on the 
 .NET framework, and it includes a command-line shell and scripting
@@ -40,11 +40,11 @@ Running commands is just as simple as using the command line,
 and the Windows Powershell appears just like the CLI.
 
 
-## Questions for Meetup
+### Questions for Meetup
 How is Windows PowerShell more powerful than the command prompt?
 Why is it intended to replace the command prompt?
 
-### Basics
+### Basics: Powershell 101
 
 ## Get-Help
 get-help <command>
@@ -90,22 +90,33 @@ I don't always use CLI, but when I do, I copy and paste the shit out of everythi
 Differences from PoSH vs. ISE (pic on phone)
 
 
-##Top 10 Cmdlets
-1. Get-Help
-2. Set-ExecutionPolicy  (Get-)
-3. 
-4.
-5.
-6.
-7
-8
-9
-10.
+## Top 10 Cmdlets
+1.  Get-Help
+2.  Set-ExecutionPolicy  (Get-)
+3.  Pipe "|" be careful bc it is iterative
+4.  Get-Service, Start-, Stop-, Restart-
+5.  Get-Process, Stop-
+6.  Export-CSV was his favorite command until...  it is a pain in the ass.
+7.  Get-EventLog  
+8.  Where-Object Select-
+9.  For(), ForEach(x in y), and ForEach-Object
+10. Switch ((vs using if statements))
 
-###Types/Typing
+
+'cmdlets return objects, which have properties.''
+
+## Json
+Stop using CSV for a data-store
+
+ConverTo-Json
+ConverFrom-Json
+
+
+## Types/Typing
+
 ###MagDev Favorites
 
-## Next Steps for learning about the topic.
+### Next Steps for learning about the topic.
 https://www.tutorialspoint.com/operating_system/os_services.htm
 
 https://docs.microsoft.com//en-us/powershell
