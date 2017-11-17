@@ -3,7 +3,7 @@
 ## Name, Date, Time and Topic
 ### PowerShell 101, St. Louis PowerShell User Group.
 ### Thursday, November 16, 2017 @ 6:00pm.
-[link to live stream] (https://www.youtube.com/watch?v=nu1WOM3et5Q)
+[link to live stream](https://www.youtube.com/watch?v=nu1WOM3et5Q)
 
 #### From the meetup website:
 
