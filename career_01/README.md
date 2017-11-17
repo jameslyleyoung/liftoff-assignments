@@ -44,9 +44,9 @@ and the Windows Powershell appears just like the CLI.
 How is Windows PowerShell more powerful than the command prompt?
 Why is it intended to replace the command prompt?
 
-###Basics
+### Basics
 
-##Get-Help
+## Get-Help
 get-help <command>
 -examples
 -detailed
@@ -58,7 +58,7 @@ get-help | less
 
 same as using 'man', for the most part
 
-##Get-Command
+## Get-Command
 get-command <command>
 -noun
 -verb
@@ -66,42 +66,49 @@ get-command <command>
 -parameterName
 -Syntax
 
-#Have to do hunting and pecking, but after you find what you are looking for you can explore the command.
+# Have to do hunting and pecking, but after you find what you are looking for you can explore the command.
 
 Grammar matters: the difference between knowing your shit and knowing you're shit.  
 
-##Verb-Noun
+## Verb-Noun
 
 dont't use more dashes - just don't --- okay 
 get-verb is your friend!
 
 e.g. get-help, get-command, get-childitem (ls)
 
-#Good habit, small adjustment.
+# Good habit, small adjustment.
 Beginner: no!  Beyond that: YES!!!
 
 It matters a ton, when we develop functiions and modules.
 You can build your own help.
 
 
-##Running Commands
+# Running Commands
 I don't always use CLI, but when I do, I copy and paste the shit out of everything!
 
 Differences from PoSH vs. ISE (pic on phone)
 
-###Top 10 CmdLets
+
+##Top 10 Cmdlets
+1. Get-Help
+2. Set-ExecutionPolicy  (Get-)
+3. 
+4.
+5.
+6.
+7
+8
+9
+10.
+
 ###Types/Typing
 ###MagDev Favorites
 
-##Top 10
-1. Get-Help
-2. Set-ExecutionPolicy  (Get-)
-
-
-
-
 ## Next Steps for learning about the topic.
 https://www.tutorialspoint.com/operating_system/os_services.htm
+
 https://docs.microsoft.com//en-us/powershell
+
 lmgtfy
 
