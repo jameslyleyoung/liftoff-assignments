@@ -42,7 +42,9 @@ and the Windows Powershell appears just like the CLI.
 
 
 ## Questions for Meetup
+
 How is Windows PowerShell more powerful than the command prompt?
+
 Why is it intended to replace the command prompt?
 
 # Basics: Powershell 101
@@ -104,7 +106,7 @@ Differences from PoSH vs. ISE (pic on phone)
 10. Switch ((vs using if statements))
 
 
-'cmdlets return objects, which have properties.''
+**'cmdlets return objects, which have properties.'**
 
 ## Json
 Stop using CSV for a data-store
