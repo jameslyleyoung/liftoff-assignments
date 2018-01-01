@@ -1,4 +1,4 @@
-I don't have a copy of my resume, but I'm working on that shortly.
+[Link to Resume] (https://github.com/jameslyleyoung/liftoff-assignments/blob/master/career_03/James_Young_Resume.pdf)
 
 [Link to Github Profile](https://github.com/jameslyleyoung)
 
